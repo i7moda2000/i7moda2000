@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**i7moda2000/i7moda2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught developer, I am looking for ways to improve my skills and gain more by working with more experienced, talented people.
+I am currently a **MIS** (Management information systems) student, continuously looking for new technologies and ways to do things more efficiently and innovatively.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+ 
+ ## My Accounts :
+ 
+  ## Twitter [@i7moda2000](https://twitter.com/i7moda2000)
+  ## LinkedIn [@i7moda2000](https://www.linkedin.com/in/i7moda2000)
