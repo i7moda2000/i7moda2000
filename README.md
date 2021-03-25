@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a self-taught developer, I am looking for ways to improve my skills and gain more by working with more experienced, talented people.
-I am currently a **MIS** (Management information systems) student, continuously looking for new technologies and ways to do things more efficiently and innovatively.
+I am currently an **MIS** (Management information systems) student, continuously looking for new technologies and ways to do things more efficiently and innovatively.
 
 
 
